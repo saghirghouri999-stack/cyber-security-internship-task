@@ -31,10 +31,12 @@ This project is a user management web application system developed and tested fo
 ```bash
 npm install
 node app.js
-Open in Browser
+
+
+##Open in Browser
 http://localhost:3000
 
-Security Improvements:
+##Security Improvements:
 Sanitized user input
 Validated email and password
 Hashed passwords using bcrypt
@@ -42,7 +44,7 @@ Protected routes using JWT
 Secured HTTP headers using Helmet
 Added logs using Winston
 
-Tools Used:
+##Tools Used:
 Express.js
 Validator
 Bcrypt
@@ -52,5 +54,5 @@ Winston
 OWASP ZAP
 Nmap
 
-Author
+##Author
 Saghir Ahmed
