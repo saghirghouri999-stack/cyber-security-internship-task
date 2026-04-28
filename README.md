@@ -27,13 +27,19 @@ This project is a user management web application system developed and tested fo
 - Security Headers with Helmet
 - Logging with Winston
 
-  ##Security Improvements:
+##Security Improvements:
 Sanitized user input
 Validated email and password
 Hashed passwords using bcrypt
 Protected routes using JWT
 Secured HTTP headers using Helmet
 Added logs using Winston
+
+## Security Work
+- Performed XSS testing
+- Tested SQL Injection
+- Analyzed password security
+- Suggested improvements
 
 ##Tools Used:
 Express.js
