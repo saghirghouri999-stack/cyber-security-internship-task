@@ -51,6 +51,10 @@ Winston
 OWASP ZAP
 Nmap
 
+## Report
+The detailed report is available in this repository:
+CyberSecurity_Report.pdf
+
 ##Author
 Saghir Ahmed
 
