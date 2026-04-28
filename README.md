@@ -27,16 +27,7 @@ This project is a user management web application system developed and tested fo
 - Security Headers with Helmet
 - Logging with Winston
 
-## Installation
-```bash
-npm install
-node app.js
-
-
-##Open in Browser
-http://localhost:3000
-
-##Security Improvements:
+  ##Security Improvements:
 Sanitized user input
 Validated email and password
 Hashed passwords using bcrypt
@@ -56,3 +47,14 @@ Nmap
 
 ##Author
 Saghir Ahmed
+
+## Installation
+```bash
+npm install
+node app.js
+
+
+##Open in Browser
+http://localhost:3000
+
+
